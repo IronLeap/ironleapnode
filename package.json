@@ -1,0 +1,19 @@
+{
+  "name": "ironleapnode",
+  "version": "1.0.0",
+  "description": "API analytics",
+  "main": "ironleapnode/index.js",
+  "author": {
+    "name": "Varun Jain",
+    "email": "varun@ironleap.io",
+    "url": "https://ironleap.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IronLeap/ironleapnode"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "lodash": "^4.17.19"
+  }
+}
